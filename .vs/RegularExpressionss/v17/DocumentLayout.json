@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\RegularExpressionss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\singlecharacterpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\singlecharacterpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\regexs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\regexs1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\regex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\regex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|F:\\DotNetProgramss\\RegularExpressionss\\regularexpressionss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|F:\\DotNetProgramss\\RegularExpressionss\\regularexpressionss\\pincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\pincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\firstuppernextlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\firstuppernextlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\datee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\datee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|F:\\DotNetProgramss\\RegularExpressionss\\regularexpressionss\\charactermatch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\charactermatch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\charactermatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\charactermatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\averagewordlength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\averagewordlength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\wordoccurence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\wordoccurence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\email2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\email2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|f:\\dotnetprogramss\\regularexpressionss\\regularexpressionss\\wordocuurences2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667C6219-79FE-43F4-B6C3-F366052070A8}|RegularExpressionss\\RegularExpressionss.csproj|solutionrelative:regularexpressionss\\wordocuurences2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Program.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Program.cs",
+              "RelativeToolTip": "RegularExpressionss\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:07:25.048Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Regexs1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Regexs1.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\Regexs1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Regexs1.cs",
+              "RelativeToolTip": "RegularExpressionss\\Regexs1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:54:01.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\PhoneNumber.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\PhoneNumber.cs",
+              "RelativeToolTip": "RegularExpressionss\\PhoneNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:53:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirstUpperNextLower.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\FirstUpperNextLower.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\FirstUpperNextLower.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\FirstUpperNextLower.cs",
+              "RelativeToolTip": "RegularExpressionss\\FirstUpperNextLower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:53:40.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Email.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Email.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\Email.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Email.cs",
+              "RelativeToolTip": "RegularExpressionss\\Email.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:53:04.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Datee.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Datee.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\Datee.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Datee.cs",
+              "RelativeToolTip": "RegularExpressionss\\Datee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:53:02.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharacterMatch.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\CharacterMatch.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\CharacterMatch.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\CharacterMatch.cs",
+              "RelativeToolTip": "RegularExpressionss\\CharacterMatch.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:52:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PinCode.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\PinCode.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\PinCode.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\PinCode.cs",
+              "RelativeToolTip": "RegularExpressionss\\PinCode.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:35:15.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleCharacterPatterns.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\SingleCharacterPatterns.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\SingleCharacterPatterns.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\SingleCharacterPatterns.cs",
+              "RelativeToolTip": "RegularExpressionss\\SingleCharacterPatterns.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAUwOMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:08:26.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordOccurence.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\WordOccurence.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\WordOccurence.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\WordOccurence.cs",
+              "RelativeToolTip": "RegularExpressionss\\WordOccurence.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:27:06.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "email2.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\email2.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\email2.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\email2.cs",
+              "RelativeToolTip": "RegularExpressionss\\email2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:59:56.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Regex2.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Regex2.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\Regex2.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\Regex2.cs",
+              "RelativeToolTip": "RegularExpressionss\\Regex2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:27:14.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WordOcuurences2.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\WordOcuurences2.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\WordOcuurences2.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\WordOcuurences2.cs",
+              "RelativeToolTip": "RegularExpressionss\\WordOcuurences2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:28:41.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AverageWordlength.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\AverageWordlength.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\AverageWordlength.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\AverageWordlength.cs",
+              "RelativeToolTip": "RegularExpressionss\\AverageWordlength.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:58:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharacterMatch2.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\CharacterMatch2.cs",
+              "RelativeDocumentMoniker": "RegularExpressionss\\CharacterMatch2.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RegularExpressionss\\RegularExpressionss\\CharacterMatch2.cs",
+              "RelativeToolTip": "RegularExpressionss\\CharacterMatch2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:10:28.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
